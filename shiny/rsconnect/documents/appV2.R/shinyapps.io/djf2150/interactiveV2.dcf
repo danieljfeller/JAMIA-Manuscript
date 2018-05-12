@@ -1,0 +1,10 @@
+name: interactiveV2
+account: djf2150
+server: shinyapps.io
+appId: 133379
+bundleId: 597893
+url: https://djf2150.shinyapps.io/interactiveV2/
+when: 1477537580.64116
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: format_data.R|navBar_test.R|P2_all_BGchangeMealProportionCluster_MealProportionColor.pdf|P2_UserData.csv|purity.R|Script6.R|sidebar_V2.R|test.R|vector_transformation.R|d3/app.R|d3/shiny_df.csv|d3/www:/bootstrap.css|static/app_static2.0.R|static/app.R|static/shiny_df.csv

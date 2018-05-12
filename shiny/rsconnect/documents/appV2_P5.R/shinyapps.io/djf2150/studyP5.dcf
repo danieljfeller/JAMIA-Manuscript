@@ -1,0 +1,10 @@
+name: studyP5
+account: djf2150
+server: shinyapps.io
+appId: 136248
+bundleId: 607987
+url: https://djf2150.shinyapps.io/studyP5/
+when: 1478537334.56675
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|appV2_P2.R|appV2_P4.R|appV2.R|format_data.R|P2_UserData.csv|purity_complete.R|purity.R|recommendation_function.R|Script6.R|shiny_df.csv|shinyP2.csv|shinyP4.csv|vector_transformation.R|d3/shiny_df.csv|d3/www:/bootstrap.css|from_python/P1.csv|from_python/P2.csv|from_python/P3.csv|from_python/P4.csv|from_python/P5.csv|from_python/P7.csv|from_python/P8.csv|from_python/P9.csv|static/app_static2.0.R|static/app.R|static/shiny_df.csv|tests/navBar_test.R|tests/purity.R|tests/test.R
